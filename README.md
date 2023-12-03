@@ -1,3 +1,6 @@
+# aykae mint & transaction
+![aleo1](https://github.com/aykae/aleo-deploy-workshop/assets/14836262/4abb4996-be91-47b5-ad0a-c7fa5541a08a)
+
 # Aleo Deployment Demo
 
 In this repository we will go through the steps to deploy your own Leo program on the Aleo Network.
